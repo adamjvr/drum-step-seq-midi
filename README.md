@@ -24,9 +24,11 @@ The goal is to provide a lightweight, scriptable, open-source drum machine seque
 
 ---
 
-## Screenshot Placeholder
+## GUI 
+![alt text](img/demo2.png "GUI Render")
 
-Insert a screenshot of the GUI here:
+![alt text](img/demo1.png "GUI Render")
+
 
 
 Recommended usage:
